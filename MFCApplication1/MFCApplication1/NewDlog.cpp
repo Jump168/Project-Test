@@ -24,6 +24,7 @@ CNewDlog::~CNewDlog()
 void CNewDlog::DoDataExchange(CDataExchange* pDX)
 {
 	CDialogEx::DoDataExchange(pDX);
+	DDX_Control(pDX, IDC_BUTTON1, m_Button1);
 }
 
 
