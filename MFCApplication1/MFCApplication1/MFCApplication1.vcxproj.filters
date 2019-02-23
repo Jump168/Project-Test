@@ -39,6 +39,9 @@
     <ClInclude Include="NewDlog.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FixDlog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MFCApplication1.cpp">
@@ -54,6 +57,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="NewDlog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FixDlog.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
